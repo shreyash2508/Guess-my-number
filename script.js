@@ -72,4 +72,4 @@ document.querySelector('.again').addEventListener('click', function () {
   document.querySelector('.number').style.width = '15rem';
 });
 
-prompt("shreyash What You want to become" );
+console.log("shreyash What You want to become" );
